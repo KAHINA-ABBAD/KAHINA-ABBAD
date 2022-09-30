@@ -46,18 +46,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 </p>
 
-<h1 align="center">You want to contact me?</h1>
-<p align="center">
-    - <a href="mailto:Kahina.hinniabbad@gmail.com"> Send me an email </a>
-    <p style='margin-bottom: 20px'>
-    </p>
-</p> 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kahina-abbad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kahina-abbad/" height="30" width="40" /></a>
-</p>
-
-
-
-
 <h1 align="center"> Important Repository ⭐️ </h1>
 <div align="center">
 <table>
@@ -82,5 +70,16 @@
     </tr>
   
 </table>
+
+<h1 align="center">You want to contact me?</h1>
+<p align="center">
+    - <a href="mailto:Kahina.hinniabbad@gmail.com"> Send me an email </a>
+    <p style='margin-bottom: 20px'>
+    </p>
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/kahina-abbad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kahina-abbad/" height="30" width="40" /></a>
+</p>
+    
+</p> 
+
  
 
