@@ -55,3 +55,32 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kahina-abbad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kahina-abbad/" height="30" width="40" /></a>
 </p>
 
+
+
+
+<h1 align="center"> Important Repository ⭐️ </h1>
+<div align="center">
+<table>
+    <tr>
+        <td width="50%">
+            <p align="center">
+               <ul>
+                <h3> Web </h3>
+                <li>  <a href="https://github.com/KAHINA-ABBAD/KahinaABBAD_2_25052021" target="_blank" rel="noopener"> Le site RESERVIA </a> </li>
+                <li>  <a href="https://github.com/KAHINA-ABBAD/KahinaABBAD_03_20082021" target="_blank" rel="noopener"> Le site OHMYFOOD </a> </li>
+              </ul>
+            </p>
+        </td>
+         <td width="50%">
+            <p align="center">
+               <ul>
+                <h3> AI/ML </h3>
+                <li>  <a href="https://github.com/KAHINA-ABBAD/Agro_Flow" target="_blank" rel="noopener"> Projet ressources agricoles mondiales </a> </li>
+               </ul>
+            </p>
+        </td>
+    </tr>
+  
+</table>
+ 
+
