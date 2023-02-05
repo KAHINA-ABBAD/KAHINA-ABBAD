@@ -64,6 +64,7 @@
                <ul>
                 <h3> AI/ML </h3>
                 <li>  <a href="https://github.com/KAHINA-ABBAD/Agro_Flow" target="_blank" rel="noopener"> Projet ressources agricoles mondiales </a> </li>
+                <li>  <a href="https://github.com/KAHINA-ABBAD/Analyse-des-ventes" target="_blank" rel="noopener"> Analyse des ventes </a> </li>
                </ul>
             </p>
         </td>
